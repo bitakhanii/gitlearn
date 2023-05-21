@@ -19,3 +19,10 @@ footer {
     background-color: red;
     display: inline-block;
 }
+
+#main .blue-shape {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
