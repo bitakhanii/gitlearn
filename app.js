@@ -13,3 +13,7 @@ function flowers() {
 function cars() {
     return ['benz', 'porsche', 'masarati'];
 }
+
+function add(a,b) {
+    return a+b;
+}
