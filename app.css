@@ -12,3 +12,10 @@ footer {
     background-color: #f7f8fa;
     margin-top: 50px;
 }
+
+#main .red-shape {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
