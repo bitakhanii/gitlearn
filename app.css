@@ -1,3 +1,9 @@
 header {
     background-color: #f7f8fa;
 }
+
+#main {
+    background-color: #fff;
+    width: 1200px;
+    padding: 10px;
+}
