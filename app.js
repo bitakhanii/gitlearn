@@ -9,3 +9,7 @@ function multiply(a,b) {
 function flowers() {
     return ['rose', 'poinsettia', 'tulip'];
 }
+
+function cars() {
+    return ['benz', 'porsche', 'masarati'];
+}
