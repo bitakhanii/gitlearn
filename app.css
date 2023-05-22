@@ -3,6 +3,10 @@ body{
     margin: 0;
 }
 
+.mr-1 {
+    margin-right: 10px;
+}
+
 header {
     background-color: #f7f8fa;
 }
