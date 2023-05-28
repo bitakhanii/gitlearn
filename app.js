@@ -21,3 +21,11 @@ function add(a,b) {
 alert('Hello World!');
 
 alert('1');
+
+function blue() {
+    return 'blue';
+}
+
+function purple() {
+    return 'purple';
+}
