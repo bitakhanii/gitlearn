@@ -42,3 +42,10 @@ footer {
     background-color: blue;
     display: inline-block;
 }
+/*feature*/
+#main .square1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
