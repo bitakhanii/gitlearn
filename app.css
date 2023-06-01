@@ -42,7 +42,7 @@ footer {
     background-color: blue;
     display: inline-block;
 }
-/*feature*/
+/*develop*/
 #main .square1 {
     width: 100px;
     height: 100px;
@@ -50,3 +50,10 @@ footer {
     display: inline-block;
 }
 
+/*col develop 2*/
+#main .square3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
